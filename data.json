@@ -1,0 +1,50 @@
+[
+    {
+        "country": "BD",
+        "price": 0.30,
+        "country_code": "+880",
+        "capacity": 100,
+        "unlock_time": 3600000,
+        "country_imogi": "🇧🇩"
+    },
+    {
+        "country": "USA",
+        "country_code": "+1",
+        "price": 0.18,
+        "capacity": 1,
+        "unlock_time": 3600000,
+        "country_imogi": "🇺🇸"
+    },
+    {
+        "country": "Algeria",
+        "country_code": "+213",
+        "price": 0.45,
+        "capacity": 100,
+        "unlock_time": 3600000,
+        "country_imogi": "🇩🇿"
+    },
+    {
+        "country": "India",
+        "country_code": "+91",
+        "price": 0.38,
+        "capacity": 100,
+        "unlock_time": 3600000,
+        "country_imogi": "🇮🇳"
+    },
+    {
+        "country": "UK",
+        "country_code": "+44",
+        "price": 1,
+        "capacity": 100,
+        "unlock_time": 3600000,
+        "country_imogi": "🇬🇧"
+    },
+    {
+        "country": "Colombia",
+        "country_code": "+57",
+        "price": 0.28,
+        "capacity": 100,
+        "unlock_time": 3600000,
+        "country_imogi": "🇨🇴"
+    }
+]
